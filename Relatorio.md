@@ -56,7 +56,7 @@ or proporção de estudantes estrangeiros** é encontrada em áreas de **Ciênci
 - Áreas **Multidisciplinar e Profissionalizantes** concentram maior volume médio de discentes por programa.
 
 
-![Uploading image.png…]()
+<img width="2067" height="1535" alt="image" src="https://github.com/user-attachments/assets/0c2e6ebb-554a-4bc3-9bf0-8993374da9a3" />
 
   ---
 ##  Síntese Geral das Análises
