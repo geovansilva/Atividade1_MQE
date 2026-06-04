@@ -8,6 +8,11 @@
 - **Região Centro-Oeste e Norte** apresentam maior concentração pública; **Sul e Sudeste** têm maior participação privada.
 - Áreas como **Ciências Exatas e Engenharias** são mais dependentes do setor público; **Ciências Sociais Aplicadas e Multidisciplinar** apresentam maior presença privada.
 
+
+<img width="2327" height="663" alt="image" src="https://github.com/user-attachments/assets/10654f62-f912-47b1-a6bd-985df02ee816" />
+
+<img width="472" height="601" alt="image" src="https://github.com/user-attachments/assets/989b2104-b351-4140-b79d-0015deaeece5" />
+
 ---
 ## Q2: Conceito CAPES × Tempo de Titulação × Taxa de Evasão
 ###  Conclusões Q2
